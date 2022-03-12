@@ -4,6 +4,12 @@
 - 📚 Cursando tecnólogo em Análise e Desenvolvimento de Sistemas no Centro Universitário Estácio do Ceará.
 - 💻 Em busca de me tornar um Desenvolvedor Front-End.
 
+<div align="center">
+  <a href="https://github.com/juanmiguell">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juanmiguell&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanmiguell&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
   
 <div style="display: inline_block"> <br>
 <img align="center" alt="Juan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
